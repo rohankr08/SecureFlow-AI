@@ -1,0 +1,6 @@
+﻿data/creditcard.csv
+transactions.db
+temp/
+temp.png
+__pycache__/
+*.pyc
